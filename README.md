@@ -44,4 +44,5 @@ GitHub
 ## Contact
 
 LinkedIn: https://www.linkedin.com
+
 Email: [frekuu@gmail.com](mailto:frekuu@gmail.com)
