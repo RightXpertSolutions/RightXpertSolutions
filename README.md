@@ -35,8 +35,11 @@ https://github.com/RightXpertSolutions/power-pizza-sales-dashboard
 ## Tools
 
 Power BI
+
 SQL Server
+
 Excel
+
 GitHub
 
 ---
