@@ -1,16 +1,47 @@
-## Hi there 👋
+# Frederick Kuuyine
 
-<!--
-**RightXpertSolutions/RightXpertSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analytics Portfolio
 
-Here are some ideas to get you started:
+I am a data analytics enthusiast with experience in SQL, Power BI, and data visualization. I enjoy transforming raw data into meaningful insights that support business decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+SQL
+Power BI
+Data Visualization
+Business Intelligence
+Data Analysis
+
+---
+
+## Featured Project
+
+### Pizza Sales Analysis Dashboard
+
+Power BI dashboard analyzing pizza sales performance using SQL and data visualization.
+
+Key highlights:
+
+• Analyzed 21K+ orders and 49K pizzas sold
+• Built KPI metrics including revenue, order volume, and average order value
+• Visualized sales trends by day and month
+• Identified top and bottom performing pizza products
+
+GitHub Repository
+https://github.com/RightXpertSolutions/power-pizza-sales-dashboard
+
+---
+
+## Tools
+
+Power BI
+SQL Server
+Excel
+GitHub
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com
+Email: [frekuu@gmail.com](mailto:frekuu@gmail.com)
