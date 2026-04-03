@@ -7,9 +7,13 @@ I am a data analytics enthusiast with experience in SQL, Power BI, and data visu
 ### Technical Skills
 
 SQL
+
 Power BI
+
 Data Visualization
+
 Business Intelligence
+
 Data Analysis
 
 ---
