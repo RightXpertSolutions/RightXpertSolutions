@@ -1,56 +1,118 @@
-# Frederick Kuuyine
+# Frederick Kuuyine  
+### Data Analyst | SQL | Power BI | Python
 
-## Data Analytics Portfolio
+Welcome to my **Data Analytics Portfolio**. This repository showcases projects where I analyze real-world datasets to uncover business insights, build dashboards, and demonstrate data-driven decision-making.
 
-I am a data analytics enthusiast with experience in SQL, Power BI, and data visualization. I enjoy transforming raw data into meaningful insights that support business decision-making.
+My work focuses on:
 
-### Technical Skills
-
-SQL
-
-Power BI
-
-Data Visualization
-
-Business Intelligence
-
-Data Analysis
+- Data Cleaning and Preparation
+- SQL Data Analysis
+- Business Intelligence Dashboards
+- Data Visualization
+- Insight Generation and Recommendations
 
 ---
 
-## Featured Project
+# Tools & Technologies
 
-### Pizza Sales Analysis Dashboard
+### Data Analysis
+- SQL
+- Python
+- Pandas
+- Excel
 
-Power BI dashboard analyzing pizza sales performance using SQL and data visualization.
+### Visualization & BI
+- Power BI
+- Data storytelling
+- Dashboard design
 
-Key highlights:
-
-• Analyzed 21K+ orders and 49K pizzas sold
-• Built KPI metrics including revenue, order volume, and average order value
-• Visualized sales trends by day and month
-• Identified top and bottom performing pizza products
-
-GitHub Repository
-https://github.com/RightXpertSolutions/power-pizza-sales-dashboard
-
----
-
-## Tools
-
-Power BI
-
-SQL Server
-
-Excel
-
-GitHub
+### Workflow & Version Control
+- Git
+- GitHub
 
 ---
 
-## Contact
+# Projects
 
-LinkedIn: https://www.linkedin.com
+## Pizza Sales Analysis
 
-Email: [frekuu@gmail.com](mailto:frekuu@gmail.com)
-        
+End-to-end analysis of a pizza sales dataset to uncover revenue trends, product performance, and customer ordering behavior.
+
+**Key Highlights**
+
+- $817K total revenue analyzed
+- 49K pizzas sold across 21K orders
+- Identified best-selling and underperforming pizzas
+- Analyzed demand patterns by day, hour, and month
+
+**Tools Used**
+
+SQL • Power BI • Excel
+
+📂 Project Folder  
+`pizza-sales-analysis/`
+
+---
+
+# Upcoming Projects
+
+These projects are currently under development and will be added soon.
+
+### Customer Churn Analysis
+Analyzing customer churn behavior to identify key factors driving customer attrition.
+
+Tools: Python • SQL • Data Visualization
+
+---
+
+### E-Commerce Sales Analysis
+Exploring online retail sales data to understand product performance, seasonal demand, and revenue drivers.
+
+Tools: SQL • Power BI
+
+---
+
+### HR Analytics
+Analyzing employee data to understand workforce trends, retention patterns and employee turnover.
+
+Tools: Python • Data Visualization
+
+---
+
+### Marketing Campaign Analysis
+Evaluating marketing campaign performance to determine ROI and identify the most effective marketing channels.
+
+Tools: SQL • Python • BI dashboards
+
+---
+
+# Project Structure
+
+Each project contains:
+
+- dataset
+- data cleaning process
+- SQL analysis
+- dashboards
+- insights
+- documentation
+
+---
+
+# About Me
+
+I am a data analyst focused on transforming raw data into meaningful insights that support better business decisions.
+
+My background combines analytical thinking, technical skills, and practical project experience in data analytics and business intelligence.
+
+---
+
+# Contact
+
+Toronto, Canada  
+
+LinkedIn:  
+https://www.linkedin.com/in/frederick-kuuyine  
+
+GitHub:  
+https://github.com/RightXpertSolutions
